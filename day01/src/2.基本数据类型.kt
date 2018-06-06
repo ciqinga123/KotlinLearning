@@ -25,4 +25,7 @@ fun main(args: Array<String>) {
 	
 	"ciqing分支第二次提交代码"
 	var cd = 20
+	
+	"master分支提交代码"
+	var m = 1
 }
