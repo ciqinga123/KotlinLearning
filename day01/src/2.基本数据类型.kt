@@ -15,4 +15,7 @@ fun main(args: Array<String>) {
 	
 	"第六次修改提交"
 	var ss = 10
+	
+	"ciqing分支首次提交代码"
+	var c = 20
 }
