@@ -9,4 +9,7 @@ fun main(args: Array<String>) {
 
     var char:Char = 'a'
     var boolean:Boolean = true
+	
+	"第五次修改提交"
+	var s = "好"
 }
