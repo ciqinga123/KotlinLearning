@@ -12,4 +12,7 @@ fun main(args: Array<String>) {
 	
 	"第五次修改提交"
 	var s = "好"
+	
+	"第六次修改提交"
+	var ss = 10
 }
