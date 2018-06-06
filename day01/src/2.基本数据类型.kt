@@ -18,4 +18,7 @@ fun main(args: Array<String>) {
 	
 	"ciqing分支首次提交代码"
 	var c = 20
+	
+	"ciqing123分支首次提交代码"
+	var c = 'f'
 }
